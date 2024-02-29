@@ -2,7 +2,7 @@ repo_name: dhqcz/stackoverflow-app
 report_id: d45f1e386cef6cc8cb8d489cff24779c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T14:20:07+00:00'
+timestamp: '2024-02-29T19:47:03+00:00'
 requested_by: Maqsim
 provider: github
 branch: master
@@ -194,7 +194,7 @@ tools:
   last_updated_by: Max Diachenko
   last_updated_on: 2021-10-23 19:21:41.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.1
   license: MIT
